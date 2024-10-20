@@ -14,4 +14,4 @@
 - **File**: [top_level_multiplier.sv](/Wallace5x5/top_level_multiplier.sv)
 - **Description**: Integrates the Wallace tree reduction and final adder components into a complete 5x5 Wallace tree multiplier, from input to final product output.
 
-### Hint: Refer to [diagram.md](/Wallace5x5/diagram.md)
+### Refer to [diagram.md](/Wallace5x5/diagram.md)
